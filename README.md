@@ -1,3 +1,5 @@
+TEAM &
+
 # Completely Digital Clips
 A bad clone of YouTube in PHP for learning to hack.  This application is load balanced between one or more PHP applications relying on a single MySQL database.
 
